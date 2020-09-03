@@ -1,3 +1,5 @@
+build/
+
 # Sass cache
 .sass-cache/
 *.css.map
