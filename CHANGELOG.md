@@ -4,6 +4,7 @@
 
 ### Added
 
+-   Add basic source code
 -   Add `gulpfile.js`
 -   Setup **eslint**
 -   Setup NPM `package.json`
