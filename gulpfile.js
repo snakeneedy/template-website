@@ -18,3 +18,5 @@ gulp.task('build:css', () => gulp.src('src/**/*.scss')
 gulp.task('build:js', () => gulp.src('src/**/*.js')
   .pipe(gulpTerser())
   .pipe(gulp.dest('build/')));
+
+gulp.task('build', gulp.parallel(['build:html', 'build:css', 'build:js']));
