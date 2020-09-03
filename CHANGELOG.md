@@ -4,6 +4,7 @@
 
 ### Added
 
+-   Add `gulpfile.js`
 -   Setup **eslint** configuration
 -   Install **eslint** and its accessory
 -   Initialize NPM `package.json`
