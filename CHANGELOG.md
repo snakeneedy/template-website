@@ -4,6 +4,7 @@
 
 ### Added
 
+-   Install **eslint** and its accessory
 -   Initialize NPM `package.json`
 -   Add `.gitignore` for Sass and NodeJS
 -   Add `LICENSE`
