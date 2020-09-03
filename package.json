@@ -10,7 +10,8 @@
     "build:html": "npx gulp build:html",
     "build:js": "npx gulp build:js",
     "clean": "rm -rf build/",
-    "test": "npx eslint . --ignore-path .gitignore"
+    "test": "npx eslint . --ignore-path .gitignore",
+    "watch": "npx gulp watch"
   },
   "repository": {
     "type": "git",
