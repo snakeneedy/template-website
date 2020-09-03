@@ -4,6 +4,7 @@
 
 ### Added
 
+-   Add `.gitignore` for Sass and NodeJS
 -   Add `LICENSE`
 -   Add `CHANGELOG.md`
 
