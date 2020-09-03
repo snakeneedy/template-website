@@ -1,0 +1,42 @@
+{
+  "name": "template-website",
+  "version": "1.0.0",
+  "description": "A template of website",
+  "main": "gulpfile.js",
+  "type": "module",
+  "scripts": {
+    "build": "npx gulp build",
+    "build:css": "npx gulp build:css",
+    "build:html": "npx gulp build:html",
+    "build:js": "npx gulp build:js",
+    "clean": "rm -rf build/",
+    "test": "npx eslint . --ignore-path .gitignore",
+    "watch": "npx gulp watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snakeneedy/template-website.git"
+  },
+  "author": "Pin-Xuan She",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/snakeneedy/template-website/issues"
+  },
+  "homepage": "https://github.com/snakeneedy/template-website#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.12",
+    "eslint": "^7.8.1",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-pug": "^4.0.1",
+    "gulp-sass": "^4.1.0",
+    "gulp-terser": "^1.4.0"
+  },
+  "dependencies": {},
+  "browserslist": [
+    "defaults"
+  ]
+}
