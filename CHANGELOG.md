@@ -2,6 +2,8 @@
 
 ## [Unreleased]
 
+## [1.0.0] - 2020-09-03
+
 ### Added
 
 -   Live re-build codes and refresh browser with **browser-sync** in `gulpfile.js`
@@ -17,3 +19,4 @@
 -   Add `CHANGELOG.md`
 
 [Unreleased]: https://github.com/snakeneedy/template-website/compare/master...develop
+[1.0.0]: https://github.com/snakeneedy/template-simple-website/releases/tag/v1.0.0
