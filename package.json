@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/snakeneedy/template-website#readme",
   "devDependencies": {
+    "browser-sync": "^2.26.12",
     "eslint": "^7.8.1",
     "eslint-config-airbnb-base": "^14.2.0",
     "eslint-plugin-import": "^2.22.0",
@@ -33,5 +34,8 @@
     "gulp-sass": "^4.1.0",
     "gulp-terser": "^1.4.0"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "browserslist": [
+    "defaults"
+  ]
 }
