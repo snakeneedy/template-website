@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+### Changed
+
+-   Fix link in CHANGELOG.md
+
 ## [1.0.0] - 2020-09-03
 
 ### Added
@@ -19,4 +23,4 @@
 -   Add `CHANGELOG.md`
 
 [Unreleased]: https://github.com/snakeneedy/template-website/compare/master...develop
-[1.0.0]: https://github.com/snakeneedy/template-simple-website/releases/tag/v1.0.0
+[1.0.0]: https://github.com/snakeneedy/template-website/releases/tag/v1.0.0
