@@ -4,6 +4,10 @@
 
 ### Added
 
+-   Live re-build codes and refresh browser with **browser-sync** in `gulpfile.js`
+-   Compress JavaScript in `gulpfile.js`
+-   Build Sass to CSS in `gulpfile.js`
+-   Build Pug to HTML in `gulpfile.js`
 -   Add basic source code
 -   Add `gulpfile.js`
 -   Setup **eslint**
